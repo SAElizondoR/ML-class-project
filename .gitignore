@@ -1,10 +1,29 @@
+# Archivos de macOS
 .DS_Store
+
+# Entornos de desarrollo
 .idea
+
+# Bitácoras
 *.log
+
+# Archivos temporales
 tmp/
+
+# Entorno virtual de Python
 .venv/
 
+# Archivos compilados
 *.py[cod]
+
+# Archivos de distribución de paquetes
 *.egg
+
+# Directorios de construcción
 build
+
+# Cobertura de pruebas HTML
 htmlcov
+
+*.csv
+*.png
